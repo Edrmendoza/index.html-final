@@ -1,0 +1,38 @@
+
+h1#mainheading {
+  font-family: Georgia,times,serif;
+  font-style: italic;
+  font-size: 3em;
+  font-weight:bold;
+}
+
+#title {
+  font-family: Georgia,times,serif;
+  color: red;
+
+}
+
+#pagetitle {
+    font-family: Georgia,times,serif;
+    font-style: italic;
+    font-size: 1.5em;
+    font-weight:bolder;
+  }
+
+h2 {
+    font-family: Georgia,times,serif;
+    font-size: 1.5em;
+    font-weight:bolder;
+}
+
+body {
+  font: 1em Verdana,Helvetica,Arial,sans-serif;
+}
+
+body {
+  font: 1em Verdana,Helvetica,Arial,sans-serif;
+}
+
+#page-wrapper {
+  width:960px;
+}
